@@ -6,6 +6,7 @@ class BookmarkManager < Sinatra::Base
     @bookmarks = Bookmark.all
     erb(:bookmarks)
   end
+<<<<<<< HEAD
 
   get '/bookmarks/new' do
     erb :"bookmarks/new"
@@ -17,5 +18,8 @@ class BookmarkManager < Sinatra::Base
   end
 
 
+=======
+  
+>>>>>>> 9478753afad1d7caf52330be7ae31fcacaa16640
   run! if app_file == $0
 end
