@@ -13,11 +13,7 @@ As the User
 So that I can add new bookmarks.
 I need to be able to add them
 ```
-```
-As a user,
-so that I can keep my manager up to date,
-I want to add new bookmarks to the manager.
-```
+
 ## Domain Model
 
 <img alt="Diagram of Domain Model" src="https://raw.githubusercontent.com/Nandini0206/bookmark-manager/master/Bookmark%20list%20-%20model.jpg">
